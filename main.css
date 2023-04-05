@@ -1,0 +1,135 @@
+@charset "utf-8";
+h1 {
+    text-align: center;
+    color: #FFC79A;
+    text-decoration: none;
+    font-family: "Salamat", "Good Karma Upright", "Rollerscript Smooth", "Cinema Script";
+    font-size: xx-large;
+}
+h2 {
+    text-align: left;
+    color: #FFC79A;
+    text-decoration: none;
+    font-family: "Salamat", "Good Karma Upright", "Rollerscript Smooth", "Cinema Script";
+    font-size: xx-large;
+}
+p {
+    color: #FFC79A;
+    font-family: "Stolzl Light", "Costa Std Light", "Brevia Regular", "New Order", "Brevia Medium", Candara;
+    font-size: 100%;
+    text-align: left;
+}
+.p_mid {
+    color: #FFC79A;
+    font-family: "Stolzl Light", "Costa Std Light", "Brevia Regular", "New Order";
+    font-size: 200%;
+    text-align: center;
+}
+
+a {
+    color: #FFC79A;
+    font-family: "Stolzl Light", "Costa Std Light", "Brevia Regular", "New Order", "Brevia Medium", Candara;
+    text-decoration: none;
+}
+
+
+body {
+    background-color: #0F1610;
+    padding-top: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+
+}
+
+h3 {
+    color: #FFC79A;
+    font-family: "Salamat", "Good Karma Upright", "Rollerscript Smooth", "Cinema Script";
+    font-weight: normal;
+    font-size: 300%;
+    text-align: center;
+    padding-top: 3%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+    padding-left: 3%;
+}
+h4 {
+    color: #FFC79A;
+    font-family: "Stolzl Light", "Costa Std Light", "Brevia Regular", "New Order", "Brevia Medium", Candara;
+    font-weight: bold;
+    font-size: large;
+    font-style: normal;
+}
+nav {
+    text-shadow: 0px 0px;
+    background-color: #155253;
+    border: thick solid #603737;
+    font-size: 170%;
+    text-decoration: none;
+    padding-top: 1%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+}
+
+footer {
+    background-color: #155253;
+    color: #FFC79A;
+    font-family: "Stolzl Light", "Costa Std Light", "Brevia Regular", "New Order", "Brevia Medium", Candara;
+    border: thick solid #603737;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 100%;
+}
+nav a:hover {
+    color: #FF999A;
+    text-decoration: underline;
+}
+
+header {
+    font-family: "Lust Script", "Lust Display Italic", "Salamat", "Cinema Script", "Blanket Bold", "Rage Italic";
+    font-size: 45px;
+    text-align: center;
+    color: #FF999A;
+    background-color: #040603;
+    padding-bottom: 3%;
+    padding-top: 3%;
+    padding-right: 0px;
+    padding-left: 0px;
+    border-top: thick solid #603737;
+    border-right: thick solid #603737;
+    border-left: thick solid #603737;
+}
+.img_float_right {
+    border: medium solid #FFC79A;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    clear: right;
+    float: right;
+}
+.img_mywork {
+    border: medium solid #FFC79A;
+    text-align: center;
+    opacity: 1;
+    padding-top: 0%;
+    margin-top: 5%;
+    margin-right: 3%;
+    margin-bottom: 5%;
+    margin-left: 3%;
+    float: none;
+    clear: both;
+    max-width: 50%;
+}
+blockquote p a:hover {
+    color: #FF999A;
+}
+.img_mywork:hover {
+    float: none;
+    clear: both;
+    border: medium solid #FF999A;
+}
+.p_mid a:hover {
+    color: #FF999A;
+}
